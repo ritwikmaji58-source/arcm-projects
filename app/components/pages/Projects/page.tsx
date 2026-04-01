@@ -6,7 +6,7 @@ export default function Blog() {
     const blog = [
         {
             "id": "1",
-            "imageSrc": "/images/Projectimages/image1.jpg",
+            "imageSrc": "/Images/Projectimages/image1.jpg",
             "author": "David Jones",
             "date": "May 1, 2025",
             "title": "Commercial Complex Development Project",
@@ -15,7 +15,7 @@ export default function Blog() {
         },
         {
             "id": "2",
-            "imageSrc": "/images/Projectimages/image2.jpg",
+            "imageSrc": "/Images/Projectimages/image2.jpg",
             "author": "Vivek Jacob",
             "date": "April 15, 2025",
             "title": "Infrastructure Development Project",
@@ -24,7 +24,7 @@ export default function Blog() {
         },
         {
             "id": "3",
-            "imageSrc": "/images/Projectimages/image3.jpg",
+            "imageSrc": "/Images/Projectimages/image3.jpg",
             "author": "Emily Brown",
             "date": "February 28, 2025",
             "title": "Industrial Warehouse & Structural Build Project",
@@ -33,7 +33,7 @@ export default function Blog() {
         },
         {
             "id": "4",
-            "imageSrc": "/images/BlogImages/image4.jpg",
+            "imageSrc": "/Images/BlogImages/image4.jpg",
             "author": "John Price",
             "date": "May 1, 2024",
             "title": "Benefits of hiring a construction firm.",
@@ -42,7 +42,7 @@ export default function Blog() {
         },
         {
             "id": "5",
-            "imageSrc": "/images/BlogImages/image5.jpg",
+            "imageSrc": "/Images/BlogImages/image5.jpg",
             "author": "John McCtavish",
             "date": "April 15, 2012",
             "title": "Tips for successful commercial construction",
@@ -51,7 +51,7 @@ export default function Blog() {
         },
         {
             "id": "6",
-            "imageSrc": "/images/BlogImages/image6.jpg",
+            "imageSrc": "/Images/BlogImages/image6.jpg",
             "author": "Simon Riley",
             "date": "February 28, 2013",
             "title": "Top 10 suspension bridges in the world.",
