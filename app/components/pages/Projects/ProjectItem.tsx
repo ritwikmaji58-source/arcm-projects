@@ -8,8 +8,8 @@ interface ProjectItemProps {
 
 export default function BlogItem({imageSrc,title, description}: ProjectItemProps){
 return(
-      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-5 ">
-      <div className="overflow-hidden">
+      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-5 overflow-hidden">
+      <div className="">
         <a href="/components/pages/Projects/ProjectCarousel">
            <Image className="transition-transform transform hover:scale-110" src={imageSrc} alt="" width={400} height={150} />
         </a>

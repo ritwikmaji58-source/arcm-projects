@@ -11,8 +11,8 @@ interface BlogItemProps {
 
 export default function BlogItem({imageSrc, author, blogdate,title, description}: BlogItemProps){
 return(
-      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-5 ">
-      <div className="overflow-hidden">
+      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-5 overflow-hidden">
+      <div className="">
         <Image className="transition-transform transform hover:scale-110" src={imageSrc} alt="" width={400} height={150} />
       </div>
       <div className="p-5">
