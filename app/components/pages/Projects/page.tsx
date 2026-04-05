@@ -2,11 +2,11 @@
 
 import ProjectItem from "./ProjectItem";
 
-export default function Blog() {
+export default function Projects() {
     const blog = [
         {
             "id": "1",
-            "imageSrc": "/Images/ProjectImages/image1.jpg",
+            "imageSrc": "/Images/BlogImages/image1.jpg",
             "author": "David Jones",
             "date": "May 1, 2025",
             "title": "Commercial Complex Development Project",
@@ -15,7 +15,7 @@ export default function Blog() {
         },
         {
             "id": "2",
-            "imageSrc": "/Images/ProjectImages/image2.jpg",
+            "imageSrc": "/Images/BlogImages/image2.jpg",
             "author": "Vivek Jacob",
             "date": "April 15, 2025",
             "title": "Infrastructure Development Project",
@@ -24,7 +24,7 @@ export default function Blog() {
         },
         {
             "id": "3",
-            "imageSrc": "/Images/ProjectImages/image3.jpg",
+            "imageSrc": "/Images/BlogImages/image3.jpg",
             "author": "Emily Brown",
             "date": "February 28, 2025",
             "title": "Industrial Warehouse & Structural Build Project",
