@@ -9,6 +9,7 @@ export default function Homepage() {
                 <div className="">
 
                 </div>
+
                 <section className="min-h-[80vh] flex flex-col gap-10 items-center justify-center text-white text-center px-6">
                     <h1 className="text-4xl md:text-6xl font-bold mb-4">
                         ARCM Projects Private Limited
@@ -17,7 +18,7 @@ export default function Homepage() {
                         Building your visions into reality.
                     </p>
                     <div className="flex flex-row sm:flex-row gap-5">
-                        <a href="mailto:ranjithgsh@gmail.com">
+                        <a href="mailto:arco.industries22@gmail.com">
                             <button className="bg-sky-400 text-black px-6 py-3 rounded-md font-medium hover:bg-sky-300 transition">
                                 <p className="text-white">Get a quote</p>
                             </button>
