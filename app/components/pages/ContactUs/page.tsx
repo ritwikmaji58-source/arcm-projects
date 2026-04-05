@@ -43,7 +43,7 @@ export default function ContactUs() {
                         </div>
                         <div className="ps-4">
                             <h5 className="text-xl text-gray-700 mb-2">Visit our office</h5>
-                            <h4 className="text-m   text-blue-400 mb-0">
+                            <h4 className="text-md text-blue-400 mb-0">
                                 Inda, Kharagpur,
                                 West Midnapore, West Bengal, India-721305.
                             </h4>
@@ -53,7 +53,7 @@ export default function ContactUs() {
             </div>
 
             <div className='grid grid-cols-1 md:grid-cols-2 gap-10 px-10 py-10'>
-                <div className="col-span-1 overflow:hidden">
+                <div className="col-span-1 overflow:hidden z-0">
                     <iframe className="relative rounded w-full h-full min-h-[450px] border-0"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20226.532712928307!2d87.33426514612643!3d22.352578976364832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1d4453b8b07929%3A0x313d62fa5c658b0a!2sInda%2C%20Kharagpur%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1769645324165!5m2!1sen!2sin">
                     </iframe>
