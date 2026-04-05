@@ -6,7 +6,7 @@ export default function Projects() {
     const blog = [
         {
             "id": "1",
-            "imageSrc": "/Images/BlogImages/image1.jpg",
+            "imageSrc": "/Images/ProjectImages/image1.jpg",
             "author": "David Jones",
             "date": "May 1, 2025",
             "title": "Commercial Complex Development Project",
